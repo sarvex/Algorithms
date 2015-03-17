@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3defbaf5-1696-4e28-b267-1b5fa42d99b1" name="Default" comment="" />
+    <list default="true" id="3defbaf5-1696-4e28-b267-1b5fa42d99b1" name="Default" comment="Comments Update">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java" afterPath="$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java" afterPath="$PROJECT_DIR$/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Algorithms.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,30 +30,100 @@
     <favorites_list name="Algorithms" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Algorithms.iml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12513034" vertical-offset="0" max-vertical-offset="959">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="ClosestPointPairAlgorithm.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/geometry/ClosestPointPairAlgorithm.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3240">
+                  <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#3740#3749#0" expanded="false" />
+                    <element signature="e#4142#4151#0" expanded="false" />
+                    <element signature="e#4237#4246#0" expanded="false" />
+                    <element signature="e#4961#4970#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HungarianAlgorithm.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.59148264" vertical-offset="0" max-vertical-offset="4665">
+                  <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="HungarianAlgorithmTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.26025236" vertical-offset="180" max-vertical-offset="1635">
+                  <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sarvex" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/com/blogspot/software_and_algorithms/stern_library/data_structure/DynamicIntervalTree.java" />
-        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/DynamicIntervalTree.java" />
-        <option value="$PROJECT_DIR$/src/com/example/algorithm/geometry/ClosestPointPairAlgorithm.java" />
-        <option value="$PROJECT_DIR$/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/OrderLinkedRedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/Interval.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/ThriftyList.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/string/KnuthMorrisPrattAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/DynamicIntervalTree.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/IntervalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/DynamicIntervalTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/OrderLinkedRedBlackTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/RedBlackTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/StaticIntervalTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/data_structure/ThriftyListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/geometry/ClosestPointPairAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/string/DamerauLevenshteinAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/data_structure/StaticIntervalTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/Interval.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/OrderLinkedRedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/StaticIntervalTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/ThriftyList.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/IntervalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/OrderLinkedRedBlackTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/RedBlackTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/StaticIntervalTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/DynamicIntervalTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/structure/ThriftyListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/geometry/ClosestPointPairAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/DynamicIntervalTree.java" />
+        <option value="$PROJECT_DIR$/src/com/example/algorithm/structure/RedBlackTree.java" />
+        <option value="$PROJECT_DIR$/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java" />
         <option value="$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java" />
       </list>
     </option>
@@ -82,7 +158,7 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
@@ -128,6 +204,130 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="string" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geometry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,32 +431,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -276,7 +450,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="hung&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/optimization/HungarianAlgorithm.java&#10;knut&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java&#10;dam&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java&#10;hu&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/optimization/HungarianAlgorithm.java&#10;knu&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java&#10;dama&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java" />
+    <property name="SearchEverywhereHistoryKey" value="thr&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/ThriftyListTest.java&#10;stat&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/StaticIntervalTreeTest.java&#10;rbtte&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/RedBlackTreeTest.java&#10;order&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/OrderLinkedRedBlackTreeTest.java&#10;intertes&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/IntervalTest.java&#10;dyna&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/structure/DynamicIntervalTreeTest.java&#10;thri&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/structure/ThriftyList.java&#10;static&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/structure/StaticIntervalTree.java&#10;redbl&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/structure/RedBlackTree.java&#10;interval&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/structure/Interval.java&#10;knutest&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/string/KnuthMorrisPrattAlgorithmTest.java&#10;da&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/string/DamerauLevenshteinAlgorithmTest.java&#10;damte&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/string/DamerauLevenshteinAlgorithmTest.java&#10;hutest&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java&#10;clostest&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/geometry/ClosestPointPairAlgorithmTest.java&#10;thrtest&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/data_structure/ThriftyListTest.java&#10;staticte&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/data_structure/StaticIntervalTreeTest.java&#10;rblte&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/data_structure/RedBlackTreeTest.java&#10;ordetest&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/data_structure/OrderLinkedRedBlackTreeTest.java&#10;intervalte&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/test/example/algorithm/data_structure/IntervalTest.java&#10;staticinter&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/data_structure/StaticIntervalTree.java&#10;redblacktree&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/data_structure/RedBlackTree.java&#10;orderlinked&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/data_structure/OrderLinkedRedBlackTree.java&#10;interval.&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/data_structure/Interval.java&#10;kn&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java&#10;dam&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java&#10;hung&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/optimization/HungarianAlgorithm.java&#10;knut&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java&#10;hu&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/optimization/HungarianAlgorithm.java&#10;knu&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java&#10;dama&#9;FILE&#9;file://C:/Users/Sarvex/Workspace/Algorithms/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -646,6 +825,15 @@
       <environmetVariables />
       <method />
     </configuration>
+    <configuration default="true" type="GAEApplicationRunConfiguration" factoryName="Application Engine Server">
+      <option name="sdkDirectory" value="" />
+      <option name="email" value="" />
+      <option name="password" value="" />
+      <option name="scriptArguments" value="" />
+      <option name="workDir" value="C:\Users\Sarvex\Workspace\Algorithms" />
+      <module name="" />
+      <method />
+    </configuration>
     <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application">
       <module name="" />
       <option name="erlFlags" value="" />
@@ -833,22 +1021,29 @@
       <updated>1426587708579</updated>
       <workItem from="1426587711427" duration="13000" />
       <workItem from="1426587849588" duration="559000" />
-      <workItem from="1426588469595" duration="41000" />
+      <workItem from="1426588469595" duration="2914000" />
     </task>
+    <task id="LOCAL-00001" summary="Comments Update">
+      <created>1426590943227</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1426590943227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613000" />
+    <option name="totallyTimeSpent" value="3486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32928064" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -859,25 +1054,26 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40020263" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GhcMod" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -895,52 +1091,217 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Comments Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments Update" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35331905" vertical-offset="0" max-vertical-offset="5010">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2445">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/geometry/ClosestPointPairAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3675">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/data_structure/DynamicIntervalTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="5715">
-          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12513034" vertical-offset="0" max-vertical-offset="959">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/StaticIntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8745">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/ThriftyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="31125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/geometry/ClosestPointPairAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1395">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#738#747#0" expanded="false" />
+            <element signature="e#1149#1158#0" expanded="false" />
+            <element signature="e#1523#1532#0" expanded="false" />
+            <element signature="e#2018#2027#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/IntervalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/DynamicIntervalTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3630">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/string/KnuthMorrisPrattAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/string/DamerauLevenshteinAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/OrderLinkedRedBlackTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/RedBlackTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2895">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/RedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05319149" vertical-offset="0" max-vertical-offset="10155">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/StaticIntervalTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4335">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/OrderLinkedRedBlackTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/structure/DynamicIntervalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5319149" vertical-offset="0" max-vertical-offset="5370">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/string/KnuthMorrisPrattAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1620#1621#0" expanded="false" />
+            <element signature="e#1657#1658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/string/DamerauLevenshteinAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2070">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/structure/ThriftyListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13297872" vertical-offset="0" max-vertical-offset="6765">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/geometry/ClosestPointPairAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3240">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="e#3740#3749#0" expanded="false" />
+            <element signature="e#4142#4151#0" expanded="false" />
+            <element signature="e#4237#4246#0" expanded="false" />
+            <element signature="e#4961#4970#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/algorithm/optimization/HungarianAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59148264" vertical-offset="0" max-vertical-offset="4665">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/example/algorithm/optimization/HungarianAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26025236" vertical-offset="180" max-vertical-offset="1635">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
